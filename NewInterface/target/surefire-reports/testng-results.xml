@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="1378" started-at="2017-12-20T06:47:15Z" finished-at="2017-12-20T06:47:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1378" started-at="2017-12-20T06:47:15Z" finished-at="2017-12-20T06:47:16Z">
+      <class name="TestingFunctional.TestingIntegral">
+        <test-method status="PASS" signature="FunctionalWithDivision()[pri:0, instance:TestingFunctional.TestingIntegral@6e8dacdf]" name="FunctionalWithDivision" duration-ms="82" started-at="2017-12-20T12:47:15Z" finished-at="2017-12-20T12:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FunctionalWithDivision -->
+        <test-method status="PASS" signature="testingFunctionalOfExp()[pri:0, instance:TestingFunctional.TestingIntegral@6e8dacdf]" name="testingFunctionalOfExp" duration-ms="720" started-at="2017-12-20T12:47:15Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingFunctionalOfExp -->
+        <test-method status="PASS" signature="testingLinearFunctionalMethods()[pri:0, instance:TestingFunctional.TestingIntegral@6e8dacdf]" name="testingLinearFunctionalMethods" duration-ms="69" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLinearFunctionalMethods -->
+        <test-method status="PASS" signature="testingSinxFunctionalMethods()[pri:0, instance:TestingFunctional.TestingIntegral@6e8dacdf]" name="testingSinxFunctionalMethods" duration-ms="468" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingSinxFunctionalMethods -->
+      </class> <!-- TestingFunctional.TestingIntegral -->
+      <class name="TestingFunctions.TestingFunctions">
+        <test-method status="PASS" signature="FunctionWithDivision()[pri:0, instance:TestingFunctions.TestingFunctions@880ec60]" name="FunctionWithDivision" duration-ms="0" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FunctionWithDivision -->
+        <test-method status="PASS" signature="testingFunctionOfExp()[pri:0, instance:TestingFunctions.TestingFunctions@880ec60]" name="testingFunctionOfExp" duration-ms="0" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingFunctionOfExp -->
+        <test-method status="PASS" signature="testingLinearFunctionMethods()[pri:0, instance:TestingFunctions.TestingFunctions@880ec60]" name="testingLinearFunctionMethods" duration-ms="0" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLinearFunctionMethods -->
+        <test-method status="PASS" signature="testingSinxFunctionMethods()[pri:0, instance:TestingFunctions.TestingFunctions@880ec60]" name="testingSinxFunctionMethods" duration-ms="1" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingSinxFunctionMethods -->
+      </class> <!-- TestingFunctions.TestingFunctions -->
+      <class name="TestingFunctional.TestingSums">
+        <test-method status="PASS" signature="FunctionalWithDivision()[pri:0, instance:TestingFunctional.TestingSums@b684286]" name="FunctionalWithDivision" duration-ms="1" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FunctionalWithDivision -->
+        <test-method status="PASS" signature="testingFunctionalOfExp()[pri:0, instance:TestingFunctional.TestingSums@b684286]" name="testingFunctionalOfExp" duration-ms="1" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingFunctionalOfExp -->
+        <test-method status="PASS" signature="testingLinearFunctionalMethods()[pri:0, instance:TestingFunctional.TestingSums@b684286]" name="testingLinearFunctionalMethods" duration-ms="0" started-at="2017-12-20T12:47:16Z" finished-at="2017-12-20T12:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingLinearFunctionalMethods -->
+      </class> <!-- TestingFunctional.TestingSums -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
